@@ -1,0 +1,11 @@
+{
+"companyName": "DefaultCompany",
+"productName": "JumpChan",
+"dataUrl": "JumpChan.data.unityweb",
+"asmCodeUrl": "JumpChan.asm.code.unityweb",
+"asmMemoryUrl": "JumpChan.asm.memory.unityweb",
+"asmFrameworkUrl": "JumpChan.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
